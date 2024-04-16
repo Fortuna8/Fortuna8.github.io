@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Derivado de "Proyecto: página web de viajes"</title>
+        <style>
+            body{background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Chuurei-tou_Fujiyoshida_17025277650_c59733d6ba_o.jpg/1200px-Chuurei-tou_Fujiyoshida_17025277650_c59733d6ba_o.jpg" ); background-attachment:fixed; background-size:600px;}
+            h1{color:rgb(255, 255, 255);}
+            h2{color:rgb(255, 255, 255);}
+            table{color:rgb(255, 255, 255);}
+            #table-of-cities{background-color:rgb(255, 255, 255); color:rgb(0, 0, 0);}
+            #table-of-attractions{background-color:rgb(255, 255, 255); color:rgb(0, 0, 0);}
+            p{color:rgb(255, 255, 255);}
+            #introduction-paragrapgh{background-color:rgb(255, 255, 255); color:rgb(0, 0, 0);}}
+            ul{color:rgb(0, 0, 0); background-color:rgb(255, 255, 255);}
+        </style>
+    </head>
+    <body>
+    
+        <h1>Travel to Japan</h1>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" width="200">
+        
+        <p id="introduction-paragrapgh">
+        Japan, an island country in East Asia, is a fascinating country of economic and business prowess, rich culture, technical wizardry, spatial conundrums and contradictions. Japan held onto the title of the world’s second largest economy for more than 40 years from 1968 to 2010. Tokyo, Japan’s capital city, is the world’s largest metropolitan area, with a population of 32.5 million people.
+        </p>
+        
+        
+        
+        <h2>
+            5 Best cities to visit in Japan:
+        </h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Itsukushima_Gate.jpg/1200px-Itsukushima_Gate.jpg" alt="Japanese castle" width="200" >
+
+        <table id="table-of-cities">
+            <thead>
+                <tr>
+                    <th>Photo</th>
+                    <th>City</th>
+                    <th>Information</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Tokyo_Tower_at_night_%281%29.jpg/2560px-Tokyo_Tower_at_night_%281%29.jpg" alt="Tokyo" height="110"></td>
+                    <td>TOKYO</td>
+                    <td><a href="https://www.jrailpass.com/blog/cities/tokyo-travel-guide">Tokyo</a> is the capital city of Japan and the most populous metropolitan area in the world. Tokyo has something for everyone, from the majestic temples of traditional Japan to the bright neon lights of Shibuya.</td>
+                </tr>
+                <tr>
+                    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kyoto%2C_Japan_%28Unsplash_UIN-pFfJ7c%29.jpg/1200px-Kyoto%2C_Japan_%28Unsplash_UIN-pFfJ7c%29.jpg" height="110"></td>
+                    <td>KYOTO</td>
+                    <td><a href="https://www.jrailpass.com/blog/cities/kyoto-travel-guide">Kyoto</a> is considered by many as Japan’s most beautiful city. It's the home to some of Japan’s most iconic landmarks, including the most sublime and exquisite gardens, temples and many masterpieces.</td>
+                </tr>
+                <tr>
+                    <td><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Osaka_Dotonbori.jpg" height="110" width="165"></td>
+                    <td>OSAKA</td>
+                    <td><a href="https://www.jrailpass.com/blog/cities/osaka-travel-guide">Osaka</a> is considered a vital economic center in Japan. It's home to its largest seaport, many leading Japanese manufacturers and is also deemed a culinary paradise.</td>
+                </tr>
+                <tr>
+                    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Minato_Mirai_In_Blue.jpg/350px-Minato_Mirai_In_Blue.jpg" height="110" width="165"></td>
+                    <td>YOKOHAMA</td>
+                    <td><a href="https://www.jrailpass.com/blog/yokohama-travel-guide">Yokohama</a> is 20 minutes south of Tokyo Station by train. Yokohama’s bay and Chinatown are not to be missed by curious travelers and food lovers.</td>
+                </tr>
+                <tr>
+                    <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Nagoya_Shrine_%283%29.JPG" height="110" width="165"></td>
+                    <td>NAGOYA</td>
+                    <td><a href="https://www.jrailpass.com/blog/nagoya-travel-guide">Nagoya</a> is one of Japan’s major ports and also an important Shinkansen bullet trains hub. From shopping to science and kid-friendly amusement parks, Nagoya’s attractions are certainly not to be missed.</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <h2>
+            6 Main attractions:
+        </h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Himeji_Castle_The_Keep_Towers.jpg/300px-Himeji_Castle_The_Keep_Towers.jpg" alt="Japanese castle" width="200">
+        
+        <table id="table-of-attractions">
+            <thead>
+                <tr>
+                    <th>Photo</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Autumn_leaf_color_and_Mount_Fuji_from_Lake_Kawaguchi.jpg" alt="Tokyo" height="110" width=""></td>
+                    <td>MT FUJI</td>
+                    <td><a href="https://www.lonelyplanet.com/japan/west-of-tokyo/fuji-go-ko/attractions/mt-fuji/a/poi-sig/1309509/356827">Fuji-san</a> is among Japan's most revered and timeless attractions, the inspiration for generations of poets and the focus of countless artworks. Hundreds of thousands of people climb it every year, continuing a centuries-old tradition of pilgrimages up the sacred volcano</td>
+                </tr>
+                <tr>
+                    <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Tokyo_National_Museum_P9234926.jpg" height="110" width="165"></td>
+                    <td>TOKYO NATIONAL MUSEUM</td>
+                    <td>If you visit only one museum in Tokyo, make it the <a href="https://www.lonelyplanet.com/japan/tokyo/ueno-and-around/attractions/tokyo-national-museum/a/poi-sig/1030228/1323660">Tokyo National Museum</a>. Here you'll find the world's largest collection of Japanese art, including ancient pottery, Buddhist sculptures, samurai swords, colourful ukiyo-e, gorgeous kimonos and much more.</td>
+                </tr>
+                <tr>
+                    <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Shibuya_Crossing_at_night_%2814738088849%29.jpg" height="110" width="165"></td>
+                    <td>SHIBUYA CROSSING</td>
+                    <td><a href="https://www.lonelyplanet.com/japan/tokyo/shibuya-and-around/attractions/shibuya-crossing/a/poi-sig/396831/1323642">Shibuya Crossing</a> is like a giant beating heart, sending people in all directions with every pulsing light change. Nowhere else says ‘Welcome to Tokyo’ better than this.</td>
+                </tr>
+                <tr>
+                    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Japan_040416_Himeji_Castle_005.jpg/640px-Japan_040416_Himeji_Castle_005.jpg" height="110" width="165"></td>
+                    <td>HIMEJI-JŌ</td>
+                    <td><a href= "https://www.lonelyplanet.com/japan/kansai/himeji/attractions/himeji-jo/a/poi-sig/1097570/356690">Himeji-jō</a> is Japan's most magnificent castle, built in 1580 by general Toyotomi Hideyoshi and one of only a few original castles from that era. Its white-plaster facade and its elegant presence earned it the nickname Shirasagi-jō (White Egret Castle). It takes about 1½ hours to follow the arrow-marked route around the castle.
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Nishiki_Ichiba_by_pokpok313_in_Kyoto.jpg/800px-Nishiki_Ichiba_by_pokpok313_in_Kyoto.jpg" height="110" width="165"></td>
+                    <td>NISHIKI MARKET</td>
+                    <td><a href= "https://www.lonelyplanet.com/japan/kansai/kyoto/downtown-kyoto/attractions/nishiki-market/a/poi-sig/402526/1323305">Nishiki Market</a> is one of Kyoto’s real highlights. Commonly known as Kyoto’s kitchen by locals, this is the place to see the wonderful foods that go into Kyoto cuisine.
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tatsumi-yagura%2C_Tokyo_Imperial_Palace_%2852158185625%29.jpg/230px-Tatsumi-yagura%2C_Tokyo_Imperial_Palace_%2852158185625%29.jpg" height="110" width="165"></td>
+                    <td>IMPERIAL PALACE</td>
+                    <td>In its heyday, <a href="https://www.lonelyplanet.com/japan/tokyo/marunouchi-nihombashi/attractions/imperial-palace/a/poi-sig/1238764/1323602">The Imperial Palace</a> was the largest fortress in the world. Most of the complex is off limits, as this is the emperor's home, but join one of the free tours organised by the Imperial Household Agency to see a part of the inner compound. Surrounding the palace is Kōkyo-gaien,a national garden with public green spaces, moats and museums.</td>
+                </tr>
+            </tbody>
+        </table>
+        
+    </body>
+</html>
