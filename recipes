@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Derivado de "Proyecto: libro de recetas"</title>
+        <meta charset="utf-8">
+        <style>
+        h1{color:rgb(94, 82, 94);background-color:rgb(247, 233, 163);}
+        h2{background-color:rgb(245, 210, 35);}
+        #content-list{background-color:rgb(247, 228, 131);}
+        body{color:rgb(94, 82, 94); background-color:rgb(247, 228, 131);}
+        #return-start{background-color:rgb(245, 210, 35);}
+        </style>
+    </head>
+    <body>
+        <!--    INDEX    -->    
+        <h1 id="title">Fran's best 3 recipes</h1>
+        
+        <h2 id="content-list">Contents:</h2>
+        
+        <ol>
+            <li><a href="#Recipe-1">#1 Salmon Loin</a></li>
+            <li><a href="#Recipe-2">#2 Oven-baked risotto</a></li>
+            <li><a href="#Recipe-3">#3 Chocolate fudge cake </a></li>
+        </ol>
+        
+        <!--    RECIPE 1    -->    
+        
+        <h2 id="Recipe-1">#1 Salmon loin</h2>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Grilled_plated_salmon_fillet.jpg" alt="salmon loin picture" width="200">
+        
+        <ul>
+            <li>Time: 20 minutes</li>
+            <li>Serves: 4</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Salmon loins
+                    <td>- 4 units of 200 gram
+                </tr>
+                <tr>
+                    <td>Zucchini
+                    <td>- 4 small units or a large one
+                </tr>
+                <tr>
+                    <td>Edible flowers
+                    <td>-
+                </tr>
+                <tr>
+                    <td>Olive oil
+                    <td>- 1 tablespoon
+                </tr>
+                <tr>
+                    <td>Salt
+                    <td>- A pinch
+                </tr>
+                <tr>
+                    <td>Fish broth
+                    <td>- 1 glass
+                </tr>
+                <tr>
+                    <td>White wine
+                    <td>- 2 tablespoons
+                </tr>
+                <tr>
+                    <td>Parsley
+                    <td>- 2 sprigs
+                </tr>
+                <tr>
+                    <td>Cornstarch
+                    <td>- 1 teaspoon
+                </tr>
+            </tbody>
+        </table>
+        
+        <ul>
+            <li><strong>Step 1:</strong> Start by preparing the sauce. To do this, wash the parsley sprigs well, dry them a little and put them in a small saucepan. Also add the fish soup and heat the saucepan until it boils for 4 minutes. When it is done, blend it with the hand mixer.</li>
+            <li><strong>Step 2:</strong> In a small glass, pour the cornstarch with the wine and mix well. Then, pour it into the saucepan with the broth and heat for a couple of minutes, stirring constantly, until you achieve a thick sauce. Season with salt and pepper to your liking and reserve the broth.
+</li>
+        <li><strong>Step 3:</strong> In a saucepan, heat water with a pinch of salt and, when it starts to boil, add the whole zucchini. Cook them for 3 minutes if they are small or a few minutes more if you use a large one. Drain them and set them aside.
+</li>
+        <li><strong>Step 4:</strong> Season the salmon fillets with salt and cook them on a very hot griddle or non-stick frying pan, greased with oil, for about 2 minutes on each side.
+</li>
+        <li><strong>Step 5:</strong> Put the fish loins on plates and distribute the zucchini cut into thin slices and some edible flowers on top. Pour the hot sauce around and serve.
+</li>
+        </ul>
+        
+        
+    <p><em>Source: <a href="https://www.elmueble.com/recetas/recetas-faciles-rapidas_5336">El Mueble</a></em></p>
+    
+        <!--    RECIPE 2    -->
+        
+        <h2 id="Recipe-2">#2 Oven-baked risotto</h2>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Hoppelpoppel_WP20_b.jpg" alt="Oven-baked risotto picture" width="200">
+        
+        <ul>
+            <li>Time: 10 mins to prep and 25 mins to cook</li>
+            <li>Serves: 4</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Smoked bacon chopped into small pieces
+                    <td>- 250g pack
+                </tr>
+                <tr>
+                    <td>Chopped onion
+                    <td>- 1
+                </tr>
+                <tr>
+                    <td>Butter
+                    <td>- 25g
+                </tr>
+                <tr>
+                    <td>White wine (optional)
+                    <td>- half a glass
+                </tr>
+                <tr>
+                    <td>Risotto rice
+                    <td>- 300g
+                </tr>
+                <tr>
+                    <td>Halved cherry tomatoes
+                    <td>- 150g pack
+                </tr>
+                <tr>
+                    <td> hot chicken stock (from a cube is fine)
+                    <td>- 700g
+                </tr>
+                <tr>
+                    <td>Grated parmesan cheese
+                    <td>- 50g
+                </tr>
+            </tbody>
+        </table>
+        
+        <ul>
+            <li><strong>Step 1:</strong> Heat oven to 200C/fan 180C/gas 6. Fry the bacon pieces in an ovenproof pan or casserole dish for 3-5 mins until golden and crisp. Stir in the onion and butter and cook for 3-4 mins until soft. Tip in the rice and mix well until coated. Pour over the wine if using and cook for 2 mins until absorbed.</li>
+            <li><strong>Step 2:</strong> Add the cherry tomatoes and the hot stock, then give the rice a quick stir. Cover with a tightly fitting lid and bake for 18 mins until just cooked. Stir through most of the parmesan and serve sprinkled with the remainder.
+</li>
+        </ul>
+        
+    <p><em>Source: <a href="https://www.bbcgoodfood.com/recipes/oven-baked-risotto">BBC Good Food</a></em></p>
+    
+            <!--    RECIPE 3    -->
+        
+        <h2 id="Recipe-3">#3 Chocolate fudge cake</h2>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vegan_Chocolate_Fudge.jpg/640px-Vegan_Chocolate_Fudge.jpg" alt="Chocolate fudge cake picture" width="200">
+        
+        <ul>
+            <li>Time: 25 minutes to prep and 30 to cook_</li>
+            <li>Serves: 8</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Sunflower oil
+                    <td>150g
+                </tr>
+                <tr>
+                    <td>Self-raising flour
+                    <td>175g
+                </tr>
+                <tr>
+                    <td>Cocoa powder
+                    <td>2 tablespoons
+                </tr>
+                <tr>
+                    <td>Bicarbonate of soda
+                    <td>1 tablespoon
+                </tr>
+                <tr>
+                    <td>Caster sugar
+                    <td>150g
+                </tr>
+                <tr>
+                    <td>Golden syrup
+                    <td>2 tablespoon
+                </tr>
+                <tr>
+                    <td>Lightly beaten large eggs
+                    <td>2
+                </tr>
+                <tr>
+                    <td>Semi-skimmed milk
+                    <td>150ml
+                </tr>
+                <tr>
+                    <td>Unsalted butter
+                    <td>100g
+                </tr>
+                <tr>
+                    <td>Icing sugar
+                    <td>225g
+                </tr>
+                <tr>
+                    <td>Cocoa powder
+                    <td>40g
+                </tr>
+                <tr>
+                    <td>Milk
+                    <td>2½ tablespoons
+                </tr>
+            </tbody>
+        </table>
+        
+        <ul>
+            <li><strong>Step 1:</strong> Heat the oven to 180C/160C fan/gas 4. Oil and line the base of two 18cm sandwich tins. Sieve the flour, cocoa powder and bicarbonate of soda into a bowl. Add the caster sugar and mix well.</li>
+            <li><strong>Step 2:</strong> Make a well in the centre and add the golden syrup, eggs, sunflower oil and milk. Beat well with an electric whisk until smooth.
+</li>
+            <li><strong>Step 3:</strong> Pour the mixture into the two tins and bake for 25-30 mins until risen and firm to the touch. Remove from oven, leave to cool for 10 mins before turning out onto a cooling rack.</li>
+            <li><strong>Step 4:</strong> To make the icing, beat the unsalted butter in a bowl until soft. Gradually sieve and beat in the icing sugar and cocoa powder, then add enough of the milk to make the icing fluffy and spreadable.
+</li><li><strong>Step 5:</strong> Sandwich the two cakes together with the butter icing and cover the sides and the top of the cake with more icing.</li>
+        </ul>
+        
+    <p><em>Source: <a href="https://www.bbcgoodfood.com/recipes/naughty-chocolate-fudge-cake">BBC Good Food</a></em></p>
+    
+    <p id="return-start"><a href="#title">Return to the start</a></p>
+    
+    </body>
+</html>
