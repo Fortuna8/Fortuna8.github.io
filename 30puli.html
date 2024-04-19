@@ -25,8 +25,8 @@
         }
         #contenido{
             margin-top: 0px;
-            padding-top:80px;        
-            
+            padding-top:80px;
+            text-align: center;        
         }
         .pregunta {
             margin-bottom: 20px;
@@ -34,16 +34,23 @@
         .pregunta h3 {
             font-size: 16px;
             font-weight: bold;
-            margin-bottom: 5px;
+            margin-bottom: -10px;
         }
         .respuesta {
             font-size: 14px;
             line-height: 1.5;
+            margin-bottom: 20px;
         }
         #cierre {
-            margin-top: 30px;
+            margin-top: 40px;
             text-align: center;
         }
+        .highlight{
+            color:rgb(133, 0, 0);
+            font-style: italic;
+            font-weight: bolder;
+        }
+
     </style>
 </head>
 <body>
@@ -55,11 +62,12 @@
     <div id="contenido">
         <div class="pregunta">
             <h3>¿Cuándo es?</h3>
-            <p class="respuesta">El sábado 20 de abril desde las 15hs en adelante.<br> <a target="_blank"  href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MnY4cmQ0bHEydXZnYTc3aHUxaTF2a2ZqcDIgZmZtYWdsaW9uZUBt&amp;tmsrc=ffmaglione%40gmail.com">Agendalo con este LINK<img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_es-419.gif"></a></p>
+            <p class="respuesta">El <span class="highlight">sábado 20 de abril</span> desde las <span class="highlight">15hs</span> en adelante.<br> <a target="_blank"  href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MnY4cmQ0bHEydXZnYTc3aHUxaTF2a2ZqcDIgZmZtYWdsaW9uZUBt&amp;tmsrc=ffmaglione%40gmail.com">Agendalo con este LINK  <img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_es-419.gif"></a></p>
         </div>
         <div class="pregunta">
             <h3>¿Dónde es?</h3>
-            <p class="respuesta">En la casa del abuelo de Puli.<br>Queda en Los Molinos.</p>
+            <p class="respuesta">En la casa del abuelo de Puli.<br>Queda en <span class="highlight">Los Molinos</span>.</p>
+            <img src="./IMG-20220501-WA0018.jpg" alt="imagen de Puli con un havano y una birra" width="10%">
         </div>
         <div class="pregunta">
             <h3>¿Me pasas la dirección de Google Maps?</h3>
@@ -67,11 +75,12 @@
         </div>
         <div class="pregunta">
             <h3>¿Hace falta llevar algo?</h3>
-            <p class="respuesta">No, vas a tener todo lo necesario, incluso pata flambeada. <br>Igual si querés llevar algo llevalo.</p>
+            <p class="respuesta">No, vas a tener todo lo necesario, incluso <span class="highlight">pata flambeada</span>. <br>Igual si querés llevar algo llevalo.</p>
+            <img src="./IMG-20191229-WA0065.jpg" alt="imagen de Puli modo hippi" width="10%">
         </div>
         <div class="pregunta">
             <h3>¿Qué puedo llevar?</h3>
-            <p class="respuesta">Lo que quieras: pelotas, tejo, cartas, aire comprimido, raquetas de tenis (hay unas canchas cerca), incluso palos de golf. Solo te pido SENTIDO COMÚN.</p>
+            <p class="respuesta">Lo que quieras: pelotas, tejo, cartas, aire comprimido, raquetas de tenis (hay unas canchas cerca), incluso palos de golf. Solo te pido <span class="highlight">SENTIDO COMÚN</span>.</p>
         </div>
         <div class="pregunta">
             <h3>¿Cheeta va a ir?</h3>
@@ -82,6 +91,7 @@
     <div id="cierre">
         <p>Te espero para comer rico, cagarnos de risa y pasarla muy bien 😀</p>
         <h2>¡No te lo pierdas!</h2>
+        <img src="./PXL_20230422_202801757.jpg" alt="imagen de Puli con su sodastream" width="10%">
     </div>
 </body>
 </html>
