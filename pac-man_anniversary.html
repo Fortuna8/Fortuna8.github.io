@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>El aniversario de Pac-Man</title>
+    <style>
+        h1 { font-size: 35px; }
+        h2 { font-size: 20px; }
+        #invitacion {
+            width: 100%;
+            height:80px;
+            margin: -8px 0px 0px -8px;
+            padding: 0px;
+            border: 1px dotted;
+            text-align: center;
+            background: rgb(243, 255, 201);
+            position: fixed;
+            z-index:2;
+        }
+        #invitacion h1{
+            margin-top:-10px;
+        }
+        #invitacion h2{
+            margin-top:10px;
+        }
+        #contenido{
+            margin-top: 0px;
+            padding-top:80px;
+            text-align: left;
+            width:70%;        
+        }
+        .pregunta {
+            margin-bottom: 20px;
+        }
+        .pregunta h3 {
+            font-size: 16px;
+            font-weight: bold;
+            margin-bottom: -10px;
+        }
+        .respuesta {
+            font-size: 14px;
+            line-height: 1.5;
+            margin-bottom: 20px;
+        }
+        #cierre {
+            margin-top: 40px;
+            text-align: center;
+        }
+        .highlight{
+            color:rgb(133, 0, 0);
+            font-style: italic;
+            font-weight: bolder;
+        }
+        
+        #pac-man{
+            float:right;
+            width: 30%;
+            padding:80px;
+        }
+
+
+    </style>
+</head>
+<body>
+    <div id="invitacion">
+        <h2>Estás invitado a...</h2>
+        <h1>¡El aniversario de Pac-Man!</h1>
+    </div>
+
+    <img id="pac-man" src="https://upload.wikimedia.org/wikipedia/pt/b/b0/Pac-Man_arte.png" alt="imagen de Pac-Man sonriendo y levantando el pulgar" width>
+
+    <div id="contenido">
+        <div class="pregunta">
+            <h3>¿Cuándo es?</h3>
+            <p class="respuesta">El <span class="highlight">miércoles 22 de mayo de 2024</span>, desde las <span class="highlight">6pm</span> en adelante.<br> <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=N2pvdWNqMWMyODBkbWVtNHV2ZWp1MmRxNjYgZmZtYWdsaW9uZUBt&amp;tmsrc=ffmaglione%40gmail.com"> Agendalo con este LINK  <img border="0" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Google_Calendar_%282015-2020%29.png" alt="calendar picture" width="25px"></a></p>
+        </div>
+        <div class="pregunta">
+            <h3>¿Dónde se celebra?</h3>
+            <p class="respuesta">En la casa de Pac-Man.<br>Queda en <span class="highlight">Pac-Man City</span>.</p>
+            
+        </div>
+        <div class="pregunta">
+            <h3>¿Me pasas la dirección de Google Maps?</h3>
+            <p class="respuesta">Si, <a id="link-maps" target="_blank" href="https://maps.app.goo.gl/8XxMdvsfDR8zbDTf7">este es el LINK <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/175-free-google-maps-pointer.svg/1220px-175-free-google-maps-pointer.svg.png" alt="maps pointer picture" width="15px"></a></p>
+        </div>
+        <div class="pregunta">
+            <h3>¿Hace falta llevar algo?</h3>
+            <p class="respuesta">No, no hace falta. Habrá comida, como <span class="highlight">pizza estilo Pac-Man</span> y snacks. Igualmente se podrán llevar otras cosas.</p>
+            
+        </div>
+        <div class="pregunta">
+            <h3>¿Qué puedo llevar?</h3>
+            <p class="respuesta">¡Lo que quieras! Juegos, comida, cartas, herramientas, raquetas de tenis y hasta palos de golf. Solo no olvides tu <span class="highlight">kit caza-fantasmas</span>.</p>
+        </div>
+        <div class="pregunta">
+            <h3>¿Irá el Profesor Pac-Man?</h3>
+            <p class="respuesta">No, el profesor está muy ocupado... 😢</p>
+        </div>
+    </div>
+
+    <div id="cierre">
+        <p>Te esperamos para celebrar, cazar fantasmas y además pasarla muy bien 😀</p>
+        <h2>¡No te lo pierdas!</h2>
+        
+    </div>
+</body>
+</html>
